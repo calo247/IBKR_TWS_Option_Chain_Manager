@@ -1,0 +1,1029 @@
+Connecting to 172.27.144.1:7497 clientId:1
+Connected to 172.27.144.1:7497 clientId:1
+Connected to 172.27.144.1:7497 clientId:1
+Error. Id: -1, Code: 2104, Msg: Market data farm connection is OK:usfuture
+Error. Id: -1, Code: 2104, Msg: Market data farm connection is OK:cashfarm
+Error. Id: -1, Code: 2104, Msg: Market data farm connection is OK:cafarm
+Error. Id: -1, Code: 2104, Msg: Market data farm connection is OK:usfarm
+Error. Id: -1, Code: 2106, Msg: HMDS data farm connection is OK:ushmds
+Error. Id: -1, Code: 2158, Msg: Sec-def data farm connection is OK:secdefil
+ReqID: 1 - Requesting contract details for NQ Strike 0.000000 Right: 
+ReqID: 1 - Received contract details for NQ, Contract ID: 666754605 Trading Class: NQ Strike: 0.000000 Right:  Last Trade Date: 20250321
+ReqID: 2 - Requesting option chain for: 666754605
+ReqID: 2 - Received option chain for 666754605
+ReqID: 3 - Requesting contract details for NQ Strike 1000.000000 Right: C
+ReqID: 4 - Requesting contract details for NQ Strike 1000.000000 Right: P
+ReqID: 5 - Requesting contract details for NQ Strike 2000.000000 Right: C
+ReqID: 6 - Requesting contract details for NQ Strike 2000.000000 Right: P
+ReqID: 7 - Requesting contract details for NQ Strike 3000.000000 Right: C
+ReqID: 8 - Requesting contract details for NQ Strike 3000.000000 Right: P
+ReqID: 9 - Requesting contract details for NQ Strike 4000.000000 Right: C
+ReqID: 10 - Requesting contract details for NQ Strike 4000.000000 Right: P
+ReqID: 11 - Requesting contract details for NQ Strike 4500.000000 Right: C
+ReqID: 12 - Requesting contract details for NQ Strike 4500.000000 Right: P
+ReqID: 13 - Requesting contract details for NQ Strike 5000.000000 Right: C
+ReqID: 14 - Requesting contract details for NQ Strike 5000.000000 Right: P
+ReqID: 15 - Requesting contract details for NQ Strike 5500.000000 Right: C
+ReqID: 16 - Requesting contract details for NQ Strike 5500.000000 Right: P
+ReqID: 17 - Requesting contract details for NQ Strike 6000.000000 Right: C
+ReqID: 18 - Requesting contract details for NQ Strike 6000.000000 Right: P
+ReqID: 19 - Requesting contract details for NQ Strike 6500.000000 Right: C
+ReqID: 20 - Requesting contract details for NQ Strike 6500.000000 Right: P
+ReqID: 21 - Requesting contract details for NQ Strike 7000.000000 Right: C
+ReqID: 22 - Requesting contract details for NQ Strike 7000.000000 Right: P
+ReqID: 23 - Requesting contract details for NQ Strike 7500.000000 Right: C
+ReqID: 24 - Requesting contract details for NQ Strike 7500.000000 Right: P
+ReqID: 25 - Requesting contract details for NQ Strike 8000.000000 Right: C
+ReqID: 26 - Requesting contract details for NQ Strike 8000.000000 Right: P
+ReqID: 27 - Requesting contract details for NQ Strike 8500.000000 Right: C
+ReqID: 28 - Requesting contract details for NQ Strike 8500.000000 Right: P
+ReqID: 29 - Requesting contract details for NQ Strike 9000.000000 Right: C
+ReqID: 30 - Requesting contract details for NQ Strike 9000.000000 Right: P
+ReqID: 31 - Requesting contract details for NQ Strike 9500.000000 Right: C
+ReqID: 32 - Requesting contract details for NQ Strike 9500.000000 Right: P
+ReqID: 33 - Requesting contract details for NQ Strike 10000.000000 Right: C
+ReqID: 34 - Requesting contract details for NQ Strike 10000.000000 Right: P
+ReqID: 35 - Requesting contract details for NQ Strike 10500.000000 Right: C
+ReqID: 36 - Requesting contract details for NQ Strike 10500.000000 Right: P
+ReqID: 37 - Requesting contract details for NQ Strike 11000.000000 Right: C
+ReqID: 38 - Requesting contract details for NQ Strike 11000.000000 Right: P
+ReqID: 39 - Requesting contract details for NQ Strike 11500.000000 Right: C
+ReqID: 40 - Requesting contract details for NQ Strike 11500.000000 Right: P
+ReqID: 41 - Requesting contract details for NQ Strike 12000.000000 Right: C
+ReqID: 42 - Requesting contract details for NQ Strike 12000.000000 Right: P
+ReqID: 43 - Requesting contract details for NQ Strike 12500.000000 Right: C
+ReqID: 44 - Requesting contract details for NQ Strike 12500.000000 Right: P
+ReqID: 45 - Requesting contract details for NQ Strike 13000.000000 Right: C
+ReqID: 46 - Requesting contract details for NQ Strike 13000.000000 Right: P
+ReqID: 47 - Requesting contract details for NQ Strike 13500.000000 Right: C
+ReqID: 48 - Requesting contract details for NQ Strike 13500.000000 Right: P
+ReqID: 49 - Requesting contract details for NQ Strike 14000.000000 Right: C
+ReqID: 50 - Requesting contract details for NQ Strike 14000.000000 Right: P
+ReqID: 51 - Requesting contract details for NQ Strike 14500.000000 Right: C
+ReqID: 52 - Requesting contract details for NQ Strike 14500.000000 Right: P
+ReqID: 53 - Requesting contract details for NQ Strike 15000.000000 Right: C
+ReqID: 54 - Requesting contract details for NQ Strike 15000.000000 Right: P
+ReqID: 55 - Requesting contract details for NQ Strike 15500.000000 Right: C
+ReqID: 56 - Requesting contract details for NQ Strike 15500.000000 Right: P
+ReqID: 57 - Requesting contract details for NQ Strike 16000.000000 Right: C
+ReqID: 58 - Requesting contract details for NQ Strike 16000.000000 Right: P
+ReqID: 59 - Requesting contract details for NQ Strike 16500.000000 Right: C
+ReqID: 60 - Requesting contract details for NQ Strike 16500.000000 Right: P
+ReqID: 61 - Requesting contract details for NQ Strike 17000.000000 Right: C
+ReqID: 62 - Requesting contract details for NQ Strike 17000.000000 Right: P
+ReqID: 63 - Requesting contract details for NQ Strike 17500.000000 Right: C
+ReqID: 64 - Requesting contract details for NQ Strike 17500.000000 Right: P
+ReqID: 65 - Requesting contract details for NQ Strike 18000.000000 Right: C
+ReqID: 66 - Requesting contract details for NQ Strike 18000.000000 Right: P
+ReqID: 67 - Requesting contract details for NQ Strike 18500.000000 Right: C
+ReqID: 68 - Requesting contract details for NQ Strike 18500.000000 Right: P
+ReqID: 69 - Requesting contract details for NQ Strike 19000.000000 Right: C
+ReqID: 70 - Requesting contract details for NQ Strike 19000.000000 Right: P
+ReqID: 71 - Requesting contract details for NQ Strike 19100.000000 Right: C
+ReqID: 72 - Requesting contract details for NQ Strike 19100.000000 Right: P
+ReqID: 73 - Requesting contract details for NQ Strike 19500.000000 Right: C
+ReqID: 74 - Requesting contract details for NQ Strike 19500.000000 Right: P
+ReqID: 75 - Requesting contract details for NQ Strike 20000.000000 Right: C
+ReqID: 76 - Requesting contract details for NQ Strike 20000.000000 Right: P
+ReqID: 77 - Requesting contract details for NQ Strike 20500.000000 Right: C
+ReqID: 78 - Requesting contract details for NQ Strike 20500.000000 Right: P
+ReqID: 79 - Requesting contract details for NQ Strike 21000.000000 Right: C
+ReqID: 80 - Requesting contract details for NQ Strike 21000.000000 Right: P
+ReqID: 81 - Requesting contract details for NQ Strike 21500.000000 Right: C
+ReqID: 82 - Requesting contract details for NQ Strike 21500.000000 Right: P
+ReqID: 83 - Requesting contract details for NQ Strike 22000.000000 Right: C
+ReqID: 84 - Requesting contract details for NQ Strike 22000.000000 Right: P
+ReqID: 85 - Requesting contract details for NQ Strike 22500.000000 Right: C
+ReqID: 86 - Requesting contract details for NQ Strike 22500.000000 Right: P
+ReqID: 87 - Requesting contract details for NQ Strike 23000.000000 Right: C
+ReqID: 88 - Requesting contract details for NQ Strike 23000.000000 Right: P
+ReqID: 89 - Requesting contract details for NQ Strike 23500.000000 Right: C
+ReqID: 90 - Requesting contract details for NQ Strike 23500.000000 Right: P
+ReqID: 91 - Requesting contract details for NQ Strike 24000.000000 Right: C
+ReqID: 92 - Requesting contract details for NQ Strike 24000.000000 Right: P
+ReqID: 93 - Requesting contract details for NQ Strike 24500.000000 Right: C
+ReqID: 94 - Requesting contract details for NQ Strike 24500.000000 Right: P
+ReqID: 95 - Requesting contract details for NQ Strike 25000.000000 Right: C
+ReqID: 96 - Requesting contract details for NQ Strike 25000.000000 Right: P
+ReqID: 97 - Requesting contract details for NQ Strike 25500.000000 Right: C
+ReqID: 98 - Requesting contract details for NQ Strike 25500.000000 Right: P
+ReqID: 99 - Requesting contract details for NQ Strike 26000.000000 Right: C
+ReqID: 100 - Requesting contract details for NQ Strike 26000.000000 Right: P
+ReqID: 101 - Requesting contract details for NQ Strike 26500.000000 Right: C
+ReqID: 102 - Requesting contract details for NQ Strike 26500.000000 Right: P
+ReqID: 103 - Requesting contract details for NQ Strike 27000.000000 Right: C
+ReqID: 104 - Requesting contract details for NQ Strike 27000.000000 Right: P
+ReqID: 105 - Requesting contract details for NQ Strike 27500.000000 Right: C
+ReqID: 106 - Requesting contract details for NQ Strike 27500.000000 Right: P
+ReqID: 107 - Requesting contract details for NQ Strike 28000.000000 Right: C
+ReqID: 108 - Requesting contract details for NQ Strike 28000.000000 Right: P
+ReqID: 109 - Requesting contract details for NQ Strike 28500.000000 Right: C
+ReqID: 110 - Requesting contract details for NQ Strike 28500.000000 Right: P
+ReqID: 111 - Requesting contract details for NQ Strike 29000.000000 Right: C
+ReqID: 112 - Requesting contract details for NQ Strike 29000.000000 Right: P
+ReqID: 113 - Requesting contract details for NQ Strike 29500.000000 Right: C
+ReqID: 114 - Requesting contract details for NQ Strike 29500.000000 Right: P
+ReqID: 115 - Requesting contract details for NQ Strike 30000.000000 Right: C
+ReqID: 116 - Requesting contract details for NQ Strike 30000.000000 Right: P
+ReqID: 117 - Requesting contract details for NQ Strike 30500.000000 Right: C
+ReqID: 118 - Requesting contract details for NQ Strike 30500.000000 Right: P
+ReqID: 3 - Received contract details for NQ, Contract ID: 731095876 Trading Class: NQ Strike: 1000.000000 Right: C Last Trade Date: 20250321
+ReqID: 4 - Received contract details for NQ, Contract ID: 731095883 Trading Class: NQ Strike: 1000.000000 Right: P Last Trade Date: 20250321
+ReqID: 6 - Received contract details for NQ, Contract ID: 731095888 Trading Class: NQ Strike: 2000.000000 Right: P Last Trade Date: 20250321
+ReqID: 5 - Received contract details for NQ, Contract ID: 731095898 Trading Class: NQ Strike: 2000.000000 Right: C Last Trade Date: 20250321
+ReqID: 7 - Received contract details for NQ, Contract ID: 731095886 Trading Class: NQ Strike: 3000.000000 Right: C Last Trade Date: 20250321
+ReqID: 8 - Received contract details for NQ, Contract ID: 731095893 Trading Class: NQ Strike: 3000.000000 Right: P Last Trade Date: 20250321
+ReqID: 10 - Received contract details for NQ, Contract ID: 691723962 Trading Class: NQ Strike: 4000.000000 Right: P Last Trade Date: 20250321
+ReqID: 9 - Received contract details for NQ, Contract ID: 691723688 Trading Class: NQ Strike: 4000.000000 Right: C Last Trade Date: 20250321
+ReqID: 11 - Received contract details for NQ, Contract ID: 691723773 Trading Class: NQ Strike: 4500.000000 Right: C Last Trade Date: 20250321
+ReqID: 12 - Received contract details for NQ, Contract ID: 691723975 Trading Class: NQ Strike: 4500.000000 Right: P Last Trade Date: 20250321
+ReqID: 13 - Received contract details for NQ, Contract ID: 691723990 Trading Class: NQ Strike: 5000.000000 Right: C Last Trade Date: 20250321
+ReqID: 14 - Received contract details for NQ, Contract ID: 691723900 Trading Class: NQ Strike: 5000.000000 Right: P Last Trade Date: 20250321
+ReqID: 16 - Received contract details for NQ, Contract ID: 691723913 Trading Class: NQ Strike: 5500.000000 Right: P Last Trade Date: 20250321
+ReqID: 15 - Received contract details for NQ, Contract ID: 691723817 Trading Class: NQ Strike: 5500.000000 Right: C Last Trade Date: 20250321
+ReqID: 17 - Received contract details for NQ, Contract ID: 691723850 Trading Class: NQ Strike: 6000.000000 Right: C Last Trade Date: 20250321
+ReqID: 18 - Received contract details for NQ, Contract ID: 691723647 Trading Class: NQ Strike: 6000.000000 Right: P Last Trade Date: 20250321
+ReqID: 20 - Received contract details for NQ, Contract ID: 691723933 Trading Class: NQ Strike: 6500.000000 Right: P Last Trade Date: 20250321
+ReqID: 19 - Received contract details for NQ, Contract ID: 691723885 Trading Class: NQ Strike: 6500.000000 Right: C Last Trade Date: 20250321
+ReqID: 21 - Received contract details for NQ, Contract ID: 691723952 Trading Class: NQ Strike: 7000.000000 Right: C Last Trade Date: 20250321
+ReqID: 22 - Received contract details for NQ, Contract ID: 691723970 Trading Class: NQ Strike: 7000.000000 Right: P Last Trade Date: 20250321
+ReqID: 23 - Received contract details for NQ, Contract ID: 691723867 Trading Class: NQ Strike: 7500.000000 Right: C Last Trade Date: 20250321
+ReqID: 24 - Received contract details for NQ, Contract ID: 691723820 Trading Class: NQ Strike: 7500.000000 Right: P Last Trade Date: 20250321
+ReqID: 25 - Received contract details for NQ, Contract ID: 691723891 Trading Class: NQ Strike: 8000.000000 Right: C Last Trade Date: 20250321
+ReqID: 26 - Received contract details for NQ, Contract ID: 691723705 Trading Class: NQ Strike: 8000.000000 Right: P Last Trade Date: 20250321
+ReqID: 27 - Received contract details for NQ, Contract ID: 691723814 Trading Class: NQ Strike: 8500.000000 Right: C Last Trade Date: 20250321
+ReqID: 28 - Received contract details for NQ, Contract ID: 691723826 Trading Class: NQ Strike: 8500.000000 Right: P Last Trade Date: 20250321
+ReqID: 29 - Received contract details for NQ, Contract ID: 691723879 Trading Class: NQ Strike: 9000.000000 Right: C Last Trade Date: 20250321
+ReqID: 30 - Received contract details for NQ, Contract ID: 691723675 Trading Class: NQ Strike: 9000.000000 Right: P Last Trade Date: 20250321
+ReqID: 31 - Received contract details for NQ, Contract ID: 691723987 Trading Class: NQ Strike: 9500.000000 Right: C Last Trade Date: 20250321
+ReqID: 32 - Received contract details for NQ, Contract ID: 691723738 Trading Class: NQ Strike: 9500.000000 Right: P Last Trade Date: 20250321
+ReqID: 33 - Received contract details for NQ, Contract ID: 691723860 Trading Class: NQ Strike: 10000.000000 Right: C Last Trade Date: 20250321
+ReqID: 34 - Received contract details for NQ, Contract ID: 691723907 Trading Class: NQ Strike: 10000.000000 Right: P Last Trade Date: 20250321
+ReqID: 35 - Received contract details for NQ, Contract ID: 691723648 Trading Class: NQ Strike: 10500.000000 Right: C Last Trade Date: 20250321
+ReqID: 36 - Received contract details for NQ, Contract ID: 691723910 Trading Class: NQ Strike: 10500.000000 Right: P Last Trade Date: 20250321
+ReqID: 37 - Received contract details for NQ, Contract ID: 691723832 Trading Class: NQ Strike: 11000.000000 Right: C Last Trade Date: 20250321
+ReqID: 38 - Received contract details for NQ, Contract ID: 691723728 Trading Class: NQ Strike: 11000.000000 Right: P Last Trade Date: 20250321
+ReqID: 39 - Received contract details for NQ, Contract ID: 691723653 Trading Class: NQ Strike: 11500.000000 Right: C Last Trade Date: 20250321
+ReqID: 40 - Received contract details for NQ, Contract ID: 691723957 Trading Class: NQ Strike: 11500.000000 Right: P Last Trade Date: 20250321
+ReqID: 43 - Received contract details for NQ, Contract ID: 691723792 Trading Class: NQ Strike: 12500.000000 Right: C Last Trade Date: 20250321
+ReqID: 41 - Received contract details for NQ, Contract ID: 691723767 Trading Class: NQ Strike: 12000.000000 Right: C Last Trade Date: 20250321
+ReqID: 42 - Received contract details for NQ, Contract ID: 691723702 Trading Class: NQ Strike: 12000.000000 Right: P Last Trade Date: 20250321
+ReqID: 44 - Received contract details for NQ, Contract ID: 691723668 Trading Class: NQ Strike: 12500.000000 Right: P Last Trade Date: 20250321
+ReqID: 45 - Received contract details for NQ, Contract ID: 691723743 Trading Class: NQ Strike: 13000.000000 Right: C Last Trade Date: 20250321
+ReqID: 46 - Received contract details for NQ, Contract ID: 691723802 Trading Class: NQ Strike: 13000.000000 Right: P Last Trade Date: 20250321
+ReqID: 47 - Received contract details for NQ, Contract ID: 691723928 Trading Class: NQ Strike: 13500.000000 Right: C Last Trade Date: 20250321
+ReqID: 48 - Received contract details for NQ, Contract ID: 691723787 Trading Class: NQ Strike: 13500.000000 Right: P Last Trade Date: 20250321
+ReqID: 49 - Received contract details for NQ, Contract ID: 691723723 Trading Class: NQ Strike: 14000.000000 Right: C Last Trade Date: 20250321
+ReqID: 50 - Received contract details for NQ, Contract ID: 691723927 Trading Class: NQ Strike: 14000.000000 Right: P Last Trade Date: 20250321
+ReqID: 51 - Received contract details for NQ, Contract ID: 691723880 Trading Class: NQ Strike: 14500.000000 Right: C Last Trade Date: 20250321
+ReqID: 52 - Received contract details for NQ, Contract ID: 691723687 Trading Class: NQ Strike: 14500.000000 Right: P Last Trade Date: 20250321
+ReqID: 53 - Received contract details for NQ, Contract ID: 691723797 Trading Class: NQ Strike: 15000.000000 Right: C Last Trade Date: 20250321
+ReqID: 54 - Received contract details for NQ, Contract ID: 691723642 Trading Class: NQ Strike: 15000.000000 Right: P Last Trade Date: 20250321
+ReqID: 55 - Received contract details for NQ, Contract ID: 691723950 Trading Class: NQ Strike: 15500.000000 Right: C Last Trade Date: 20250321
+ReqID: 56 - Received contract details for NQ, Contract ID: 691723665 Trading Class: NQ Strike: 15500.000000 Right: P Last Trade Date: 20250321
+ReqID: 57 - Received contract details for NQ, Contract ID: 691723967 Trading Class: NQ Strike: 16000.000000 Right: C Last Trade Date: 20250321
+ReqID: 59 - Received contract details for NQ, Contract ID: 691723897 Trading Class: NQ Strike: 16500.000000 Right: C Last Trade Date: 20250321
+ReqID: 60 - Received contract details for NQ, Contract ID: 691723750 Trading Class: NQ Strike: 16500.000000 Right: P Last Trade Date: 20250321
+ReqID: 58 - Received contract details for NQ, Contract ID: 691723947 Trading Class: NQ Strike: 16000.000000 Right: P Last Trade Date: 20250321
+ReqID: 61 - Received contract details for NQ, Contract ID: 691723733 Trading Class: NQ Strike: 17000.000000 Right: C Last Trade Date: 20250321
+ReqID: 62 - Received contract details for NQ, Contract ID: 691723845 Trading Class: NQ Strike: 17000.000000 Right: P Last Trade Date: 20250321
+ReqID: 63 - Received contract details for NQ, Contract ID: 691723713 Trading Class: NQ Strike: 17500.000000 Right: C Last Trade Date: 20250321
+ReqID: 66 - Received contract details for NQ, Contract ID: 691723937 Trading Class: NQ Strike: 18000.000000 Right: P Last Trade Date: 20250321
+ReqID: 64 - Received contract details for NQ, Contract ID: 691723790 Trading Class: NQ Strike: 17500.000000 Right: P Last Trade Date: 20250321
+ReqID: 65 - Received contract details for NQ, Contract ID: 691723716 Trading Class: NQ Strike: 18000.000000 Right: C Last Trade Date: 20250321
+ReqID: 67 - Received contract details for NQ, Contract ID: 691723981 Trading Class: NQ Strike: 18500.000000 Right: C Last Trade Date: 20250321
+ReqID: 68 - Received contract details for NQ, Contract ID: 691723811 Trading Class: NQ Strike: 18500.000000 Right: P Last Trade Date: 20250321
+ReqID: 69 - Received contract details for NQ, Contract ID: 691723922 Trading Class: NQ Strike: 19000.000000 Right: C Last Trade Date: 20250321
+ReqID: 70 - Received contract details for NQ, Contract ID: 691723663 Trading Class: NQ Strike: 19000.000000 Right: P Last Trade Date: 20250321
+ReqID: 71 - Received contract details for NQ, Contract ID: 708389057 Trading Class: NQ Strike: 19100.000000 Right: C Last Trade Date: 20250321
+ReqID: 72 - Received contract details for NQ, Contract ID: 708389046 Trading Class: NQ Strike: 19100.000000 Right: P Last Trade Date: 20250321
+ReqID: 74 - Received contract details for NQ, Contract ID: 691723807 Trading Class: NQ Strike: 19500.000000 Right: P Last Trade Date: 20250321
+ReqID: 75 - Received contract details for NQ, Contract ID: 691723762 Trading Class: NQ Strike: 20000.000000 Right: C Last Trade Date: 20250321
+ReqID: 73 - Received contract details for NQ, Contract ID: 691723708 Trading Class: NQ Strike: 19500.000000 Right: C Last Trade Date: 20250321
+ReqID: 76 - Received contract details for NQ, Contract ID: 691723855 Trading Class: NQ Strike: 20000.000000 Right: P Last Trade Date: 20250321
+ReqID: 77 - Received contract details for NQ, Contract ID: 691723916 Trading Class: NQ Strike: 20500.000000 Right: C Last Trade Date: 20250321
+ReqID: 78 - Received contract details for NQ, Contract ID: 691723780 Trading Class: NQ Strike: 20500.000000 Right: P Last Trade Date: 20250321
+ReqID: 79 - Received contract details for NQ, Contract ID: 691723747 Trading Class: NQ Strike: 21000.000000 Right: C Last Trade Date: 20250321
+ReqID: 80 - Received contract details for NQ, Contract ID: 691723693 Trading Class: NQ Strike: 21000.000000 Right: P Last Trade Date: 20250321
+ReqID: 81 - Received contract details for NQ, Contract ID: 691723870 Trading Class: NQ Strike: 21500.000000 Right: C Last Trade Date: 20250321
+ReqID: 82 - Received contract details for NQ, Contract ID: 691723874 Trading Class: NQ Strike: 21500.000000 Right: P Last Trade Date: 20250321
+ReqID: 83 - Received contract details for NQ, Contract ID: 691723753 Trading Class: NQ Strike: 22000.000000 Right: C Last Trade Date: 20250321
+ReqID: 86 - Received contract details for NQ, Contract ID: 691723894 Trading Class: NQ Strike: 22500.000000 Right: P Last Trade Date: 20250321
+ReqID: 84 - Received contract details for NQ, Contract ID: 691723699 Trading Class: NQ Strike: 22000.000000 Right: P Last Trade Date: 20250321
+ReqID: 85 - Received contract details for NQ, Contract ID: 691723678 Trading Class: NQ Strike: 22500.000000 Right: C Last Trade Date: 20250321
+ReqID: 87 - Received contract details for NQ, Contract ID: 691723726 Trading Class: NQ Strike: 23000.000000 Right: C Last Trade Date: 20250321
+ReqID: 88 - Received contract details for NQ, Contract ID: 691723837 Trading Class: NQ Strike: 23000.000000 Right: P Last Trade Date: 20250321
+ReqID: 89 - Received contract details for NQ, Contract ID: 691723768 Trading Class: NQ Strike: 23500.000000 Right: C Last Trade Date: 20250321
+ReqID: 92 - Received contract details for NQ, Contract ID: 691723840 Trading Class: NQ Strike: 24000.000000 Right: P Last Trade Date: 20250321
+ReqID: 90 - Received contract details for NQ, Contract ID: 691723777 Trading Class: NQ Strike: 23500.000000 Right: P Last Trade Date: 20250321
+ReqID: 91 - Received contract details for NQ, Contract ID: 691723976 Trading Class: NQ Strike: 24000.000000 Right: C Last Trade Date: 20250321
+ReqID: 93 - Received contract details for NQ, Contract ID: 691723682 Trading Class: NQ Strike: 24500.000000 Right: C Last Trade Date: 20250321
+ReqID: 94 - Received contract details for NQ, Contract ID: 691723940 Trading Class: NQ Strike: 24500.000000 Right: P Last Trade Date: 20250321
+ReqID: 96 - Received contract details for NQ, Contract ID: 691723658 Trading Class: NQ Strike: 25000.000000 Right: P Last Trade Date: 20250321
+ReqID: 95 - Received contract details for NQ, Contract ID: 691723857 Trading Class: NQ Strike: 25000.000000 Right: C Last Trade Date: 20250321
+ReqID: 97 - Received contract details for NQ, Contract ID: 691723756 Trading Class: NQ Strike: 25500.000000 Right: C Last Trade Date: 20250321
+ReqID: 98 - Received contract details for NQ, Contract ID: 691723831 Trading Class: NQ Strike: 25500.000000 Right: P Last Trade Date: 20250321
+ReqID: 99 - Received contract details for NQ, Contract ID: 692205951 Trading Class: NQ Strike: 26000.000000 Right: C Last Trade Date: 20250321
+ReqID: 101 - Received contract details for NQ, Contract ID: 692205962 Trading Class: NQ Strike: 26500.000000 Right: C Last Trade Date: 20250321
+ReqID: 100 - Received contract details for NQ, Contract ID: 692205952 Trading Class: NQ Strike: 26000.000000 Right: P Last Trade Date: 20250321
+ReqID: 102 - Received contract details for NQ, Contract ID: 692205957 Trading Class: NQ Strike: 26500.000000 Right: P Last Trade Date: 20250321
+ReqID: 103 - Received contract details for NQ, Contract ID: 703697105 Trading Class: NQ Strike: 27000.000000 Right: C Last Trade Date: 20250321
+ReqID: 104 - Received contract details for NQ, Contract ID: 704578401 Trading Class: NQ Strike: 27000.000000 Right: P Last Trade Date: 20250321
+ReqID: 105 - Received contract details for NQ, Contract ID: 708389060 Trading Class: NQ Strike: 27500.000000 Right: C Last Trade Date: 20250321
+ReqID: 106 - Received contract details for NQ, Contract ID: 708389052 Trading Class: NQ Strike: 27500.000000 Right: P Last Trade Date: 20250321
+ReqID: 107 - Received contract details for NQ, Contract ID: 708389043 Trading Class: NQ Strike: 28000.000000 Right: C Last Trade Date: 20250321
+ReqID: 108 - Received contract details for NQ, Contract ID: 708389049 Trading Class: NQ Strike: 28000.000000 Right: P Last Trade Date: 20250321
+ReqID: 110 - Received contract details for NQ, Contract ID: 709578407 Trading Class: NQ Strike: 28500.000000 Right: P Last Trade Date: 20250321
+ReqID: 109 - Received contract details for NQ, Contract ID: 709908154 Trading Class: NQ Strike: 28500.000000 Right: C Last Trade Date: 20250321
+ReqID: 111 - Received contract details for NQ, Contract ID: 714208450 Trading Class: NQ Strike: 29000.000000 Right: C Last Trade Date: 20250321
+ReqID: 112 - Received contract details for NQ, Contract ID: 714208447 Trading Class: NQ Strike: 29000.000000 Right: P Last Trade Date: 20250321
+ReqID: 113 - Received contract details for NQ, Contract ID: 715368611 Trading Class: NQ Strike: 29500.000000 Right: C Last Trade Date: 20250321
+ReqID: 114 - Received contract details for NQ, Contract ID: 715368614 Trading Class: NQ Strike: 29500.000000 Right: P Last Trade Date: 20250321
+ReqID: 115 - Received contract details for NQ, Contract ID: 715024487 Trading Class: NQ Strike: 30000.000000 Right: C Last Trade Date: 20250321
+ReqID: 116 - Received contract details for NQ, Contract ID: 715024482 Trading Class: NQ Strike: 30000.000000 Right: P Last Trade Date: 20250321
+ReqID: 117 - Received contract details for NQ, Contract ID: 746683758 Trading Class: NQ Strike: 30500.000000 Right: C Last Trade Date: 20250321
+ReqID: 118 - Received contract details for NQ, Contract ID: 746683760 Trading Class: NQ Strike: 30500.000000 Right: P Last Trade Date: 20250321
+MarketDataType. ReqId: 0, Type: 3
+Tick Price. Ticker Id: 0, Field: 66, Price: -1.000000
+'Bid' updated for underlying contract: NQ
+Tick Price. Ticker Id: 0, Field: 67, Price: -1.000000
+'Ask' updated for underlying contract: NQ
+Tick Price. Ticker Id: 0, Field: 68, Price: 21902.000000
+'Last' updated for underlying contract: NQ
+Tick Price. Ticker Id: 0, Field: 72, Price: 21936.000000
+Tick Price. Ticker Id: 0, Field: 73, Price: 21696.000000
+Tick Price. Ticker Id: 0, Field: 75, Price: 21740.500000
+Tick Price. Ticker Id: 0, Field: 76, Price: 21713.000000
+Option chain initialized for symbol: NQ
+ReqID: 49 - Requesting market data for 691723880
+ReqID: 50 - Requesting market data for 691723687
+ReqID: 51 - Requesting market data for 691723797
+ReqID: 52 - Requesting market data for 691723642
+ReqID: 53 - Requesting market data for 691723950
+ReqID: 54 - Requesting market data for 691723665
+ReqID: 55 - Requesting market data for 691723967
+ReqID: 56 - Requesting market data for 691723947
+ReqID: 57 - Requesting market data for 691723897
+ReqID: 58 - Requesting market data for 691723750
+ReqID: 59 - Requesting market data for 691723733
+ReqID: 60 - Requesting market data for 691723845
+ReqID: 61 - Requesting market data for 691723713
+ReqID: 62 - Requesting market data for 691723790
+ReqID: 63 - Requesting market data for 691723716
+ReqID: 64 - Requesting market data for 691723937
+ReqID: 65 - Requesting market data for 691723981
+ReqID: 66 - Requesting market data for 691723811
+ReqID: 67 - Requesting market data for 691723922
+ReqID: 68 - Requesting market data for 691723663
+ReqID: 69 - Requesting market data for 708389057
+ReqID: 70 - Requesting market data for 708389046
+ReqID: 71 - Requesting market data for 691723708
+ReqID: 72 - Requesting market data for 691723807
+ReqID: 73 - Requesting market data for 691723762
+ReqID: 74 - Requesting market data for 691723855
+ReqID: 75 - Requesting market data for 691723916
+ReqID: 76 - Requesting market data for 691723780
+ReqID: 77 - Requesting market data for 691723747
+ReqID: 78 - Requesting market data for 691723693
+ReqID: 79 - Requesting market data for 691723870
+ReqID: 80 - Requesting market data for 691723874
+ReqID: 81 - Requesting market data for 691723753
+ReqID: 82 - Requesting market data for 691723699
+ReqID: 83 - Requesting market data for 691723678
+ReqID: 84 - Requesting market data for 691723894
+ReqID: 85 - Requesting market data for 691723726
+ReqID: 86 - Requesting market data for 691723837
+ReqID: 87 - Requesting market data for 691723768
+ReqID: 88 - Requesting market data for 691723777
+ReqID: 89 - Requesting market data for 691723976
+ReqID: 90 - Requesting market data for 691723840
+ReqID: 91 - Requesting market data for 691723682
+ReqID: 92 - Requesting market data for 691723940
+ReqID: 93 - Requesting market data for 691723857
+ReqID: 94 - Requesting market data for 691723658
+ReqID: 95 - Requesting market data for 691723756
+ReqID: 96 - Requesting market data for 691723831
+ReqID: 97 - Requesting market data for 692205951
+ReqID: 98 - Requesting market data for 692205952
+ReqID: 99 - Requesting market data for 692205962
+ReqID: 100 - Requesting market data for 692205957
+ReqID: 101 - Requesting market data for 703697105
+ReqID: 102 - Requesting market data for 704578401
+ReqID: 103 - Requesting market data for 708389060
+ReqID: 104 - Requesting market data for 708389052
+ReqID: 105 - Requesting market data for 708389043
+ReqID: 106 - Requesting market data for 708389049
+ReqID: 107 - Requesting market data for 709908154
+ReqID: 108 - Requesting market data for 709578407
+ReqID: 109 - Requesting market data for 714208450
+ReqID: 110 - Requesting market data for 714208447
+ReqID: 111 - Requesting market data for 715368611
+ReqID: 112 - Requesting market data for 715368614
+Error. Id: 49, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 50, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 51, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 53, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 52, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 54, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 55, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 56, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 57, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 58, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 59, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 60, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 61, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 62, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 63, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 64, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 65, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 66, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 67, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 68, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 69, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 70, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 71, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 72, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 73, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 74, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 75, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 76, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 77, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 78, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 79, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 80, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 81, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 82, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 83, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 84, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 85, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 86, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+MarketDataType. ReqId: 49, Type: 3
+Error. Id: 49, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 50, Type: 3
+Error. Id: 50, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+Error. Id: 87, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 89, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 88, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 90, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 91, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 92, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 93, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 94, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 95, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 96, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 97, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 98, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Tick Price. Ticker Id: 50, Field: 68, Price: 25.500000
+'Last' updated for Ticker ID: 50 Symbol: NQ Strike: 14500.000000 Type: P
+Tick Price. Ticker Id: 50, Field: 72, Price: 28.250000
+Tick Price. Ticker Id: 50, Field: 73, Price: 25.500000
+Tick Price. Ticker Id: 50, Field: 75, Price: 28.750000
+MarketDataType. ReqId: 51, Type: 3
+Error. Id: 51, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 52, Type: 3
+Error. Id: 52, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 53, Type: 3
+Error. Id: 53, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 54, Type: 3
+Error. Id: 54, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 55, Type: 3
+Error. Id: 55, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+Error. Id: 58, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 59, Type: 3
+MarketDataType. ReqId: 56, Type: 3
+Error. Id: 59, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 60, Type: 3
+Error. Id: 56, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+Error. Id: 57, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 61, Type: 3
+MarketDataType. ReqId: 58, Type: 3
+MarketDataType. ReqId: 57, Type: 3
+Error. Id: 60, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+Error. Id: 62, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+Error. Id: 61, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 62, Type: 3
+MarketDataType. ReqId: 63, Type: 3
+Error. Id: 63, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 64, Type: 3
+Error. Id: 64, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 65, Type: 3
+Error. Id: 65, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 66, Type: 3
+Error. Id: 66, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 67, Type: 3
+MarketDataType. ReqId: 68, Type: 3
+Error. Id: 68, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 69, Type: 3
+Error. Id: 67, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+Error. Id: 69, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 70, Type: 3
+Error. Id: 70, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 71, Type: 3
+Error. Id: 71, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 72, Type: 3
+Error. Id: 72, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 73, Type: 3
+Error. Id: 73, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 74, Type: 3
+Error. Id: 74, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 75, Type: 3
+Error. Id: 75, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 76, Type: 3
+Error. Id: 76, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 77, Type: 3
+Error. Id: 77, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 78, Type: 3
+Error. Id: 78, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 79, Type: 3
+Error. Id: 79, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 80, Type: 3
+Error. Id: 80, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 81, Type: 3
+Error. Id: 81, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 82, Type: 3
+Error. Id: 82, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 83, Type: 3
+Error. Id: 83, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 84, Type: 3
+Error. Id: 84, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 85, Type: 3
+Error. Id: 85, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 86, Type: 3
+Error. Id: 86, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 87, Type: 3
+Error. Id: 87, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 88, Type: 3
+Error. Id: 88, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 89, Type: 3
+Error. Id: 89, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 90, Type: 3
+MarketDataType. ReqId: 91, Type: 3
+Error. Id: 91, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+Error. Id: 90, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+Error. Id: 92, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 93, Type: 3
+MarketDataType. ReqId: 92, Type: 3
+Error. Id: 93, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 94, Type: 3
+Error. Id: 94, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 95, Type: 3
+Error. Id: 95, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 97, Type: 3
+Error. Id: 97, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 96, Type: 3
+Error. Id: 96, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 98, Type: 3
+Error. Id: 98, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+Error. Id: 99, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 100, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 101, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 102, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 103, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 104, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 105, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 106, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 107, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 108, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 109, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 110, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Error. Id: 111, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+Tick Price. Ticker Id: 72, Field: 68, Price: 205.000000
+'Last' updated for Ticker ID: 72 Symbol: NQ Strike: 19500.000000 Type: P
+Tick Price. Ticker Id: 74, Field: 72, Price: 278.000000
+Tick Price. Ticker Id: 74, Field: 73, Price: 262.750000
+Tick Price. Ticker Id: 74, Field: 75, Price: 293.750000
+Tick Price. Ticker Id: 72, Field: 72, Price: 205.000000
+Tick Price. Ticker Id: 72, Field: 73, Price: 205.000000
+Tick Price. Ticker Id: 72, Field: 75, Price: 225.000000
+Tick Price. Ticker Id: 68, Field: 72, Price: 157.250000
+Tick Price. Ticker Id: 68, Field: 73, Price: 157.250000
+Tick Price. Ticker Id: 68, Field: 75, Price: 174.500000
+Tick Price. Ticker Id: 68, Field: 68, Price: 157.250000
+'Last' updated for Ticker ID: 68 Symbol: NQ Strike: 19000.000000 Type: P
+Tick Price. Ticker Id: 74, Field: 68, Price: 265.000000
+'Last' updated for Ticker ID: 74 Symbol: NQ Strike: 20000.000000 Type: P
+Tick Price. Ticker Id: 55, Field: 75, Price: 5758.000000
+Tick Price. Ticker Id: 89, Field: 68, Price: 106.250000
+'Last' updated for Ticker ID: 89 Symbol: NQ Strike: 24000.000000 Type: C
+Tick Price. Ticker Id: 87, Field: 68, Price: 181.000000
+'Last' updated for Ticker ID: 87 Symbol: NQ Strike: 23500.000000 Type: C
+Tick Price. Ticker Id: 89, Field: 72, Price: 106.250000
+Tick Price. Ticker Id: 89, Field: 73, Price: 95.250000
+Tick Price. Ticker Id: 89, Field: 75, Price: 90.750000
+Tick Price. Ticker Id: 87, Field: 72, Price: 181.000000
+Tick Price. Ticker Id: 87, Field: 75, Price: 156.000000
+Tick Price. Ticker Id: 87, Field: 73, Price: 157.500000
+Tick Price. Ticker Id: 77, Field: 72, Price: 1350.000000
+Tick Price. Ticker Id: 77, Field: 73, Price: 1305.000000
+Tick Price. Ticker Id: 77, Field: 75, Price: 1243.000000
+Tick Price. Ticker Id: 82, Field: 72, Price: 855.000000
+Tick Price. Ticker Id: 82, Field: 73, Price: 815.500000
+Tick Price. Ticker Id: 82, Field: 75, Price: 891.750000
+Tick Price. Ticker Id: 77, Field: 68, Price: 1350.000000
+'Last' updated for Ticker ID: 77 Symbol: NQ Strike: 21000.000000 Type: C
+Tick Price. Ticker Id: 56, Field: 72, Price: 45.500000
+Tick Price. Ticker Id: 56, Field: 73, Price: 45.500000
+Tick Price. Ticker Id: 66, Field: 72, Price: 133.250000
+Tick Price. Ticker Id: 56, Field: 75, Price: 49.500000
+Tick Price. Ticker Id: 66, Field: 68, Price: 124.750000
+Tick Price. Ticker Id: 66, Field: 73, Price: 123.750000
+Tick Price. Ticker Id: 66, Field: 75, Price: 137.500000
+'Last' updated for Ticker ID: 66 Symbol: NQ Strike: 18500.000000 Type: P
+Tick Price. Ticker Id: 82, Field: 68, Price: 815.500000
+'Last' updated for Ticker ID: 82 Symbol: NQ Strike: 22000.000000 Type: P
+Tick Price. Ticker Id: 56, Field: 68, Price: 45.500000
+'Last' updated for Ticker ID: 56 Symbol: NQ Strike: 16000.000000 Type: P
+Tick Price. Ticker Id: 76, Field: 68, Price: 347.250000
+'Last' updated for Ticker ID: 76 Symbol: NQ Strike: 20500.000000 Type: P
+Tick Price. Ticker Id: 76, Field: 72, Price: 355.250000
+Tick Price. Ticker Id: 76, Field: 73, Price: 347.250000
+Tick Price. Ticker Id: 76, Field: 75, Price: 386.250000
+Tick Price. Ticker Id: 75, Field: 68, Price: 1759.750000
+'Last' updated for Ticker ID: 75 Symbol: NQ Strike: 20500.000000 Type: C
+Tick Price. Ticker Id: 75, Field: 72, Price: 1759.750000
+Tick Price. Ticker Id: 75, Field: 73, Price: 1759.750000
+Tick Price. Ticker Id: 75, Field: 75, Price: 1615.000000
+Tick Price. Ticker Id: 52, Field: 72, Price: 31.750000
+Tick Price. Ticker Id: 52, Field: 73, Price: 31.750000
+Tick Price. Ticker Id: 52, Field: 75, Price: 34.250000
+Tick Price. Ticker Id: 91, Field: 72, Price: 61.000000
+Tick Price. Ticker Id: 91, Field: 73, Price: 61.000000
+Tick Price. Ticker Id: 91, Field: 75, Price: 52.000000
+Tick Price. Ticker Id: 80, Field: 68, Price: 620.000000
+'Last' updated for Ticker ID: 80 Symbol: NQ Strike: 21500.000000 Type: P
+Tick Price. Ticker Id: 52, Field: 68, Price: 31.750000
+'Last' updated for Ticker ID: 52 Symbol: NQ Strike: 15000.000000 Type: P
+Tick Price. Ticker Id: 73, Field: 72, Price: 2130.000000
+Tick Price. Ticker Id: 73, Field: 73, Price: 2125.000000
+Tick Price. Ticker Id: 73, Field: 75, Price: 2018.250000
+Tick Price. Ticker Id: 97, Field: 72, Price: 12.250000
+Tick Price. Ticker Id: 97, Field: 73, Price: 12.250000
+Tick Price. Ticker Id: 97, Field: 75, Price: 10.500000
+Tick Price. Ticker Id: 91, Field: 68, Price: 61.000000
+'Last' updated for Ticker ID: 91 Symbol: NQ Strike: 24500.000000 Type: C
+Tick Price. Ticker Id: 97, Field: 68, Price: 12.250000
+'Last' updated for Ticker ID: 97 Symbol: NQ Strike: 26000.000000 Type: C
+Tick Price. Ticker Id: 73, Field: 68, Price: 2125.000000
+'Last' updated for Ticker ID: 73 Symbol: NQ Strike: 20000.000000 Type: C
+Tick Price. Ticker Id: 80, Field: 72, Price: 649.000000
+Tick Price. Ticker Id: 80, Field: 73, Price: 615.000000
+Tick Price. Ticker Id: 80, Field: 75, Price: 674.500000
+Tick Price. Ticker Id: 81, Field: 73, Price: 636.000000
+Tick Price. Ticker Id: 81, Field: 72, Price: 729.000000
+Tick Price. Ticker Id: 81, Field: 75, Price: 634.750000
+Tick Price. Ticker Id: 54, Field: 72, Price: 41.000000
+Tick Price. Ticker Id: 54, Field: 73, Price: 37.000000
+Tick Price. Ticker Id: 54, Field: 75, Price: 41.000000
+Tick Price. Ticker Id: 57, Field: 72, Price: 5443.000000
+Tick Price. Ticker Id: 57, Field: 73, Price: 5384.500000
+Tick Price. Ticker Id: 57, Field: 75, Price: 5268.250000
+Tick Price. Ticker Id: 93, Field: 68, Price: 30.250000
+'Last' updated for Ticker ID: 93 Symbol: NQ Strike: 25000.000000 Type: C
+Tick Price. Ticker Id: 64, Field: 68, Price: 100.250000
+'Last' updated for Ticker ID: 64 Symbol: NQ Strike: 18000.000000 Type: P
+Tick Price. Ticker Id: 81, Field: 68, Price: 723.750000
+'Last' updated for Ticker ID: 81 Symbol: NQ Strike: 22000.000000 Type: C
+Tick Price. Ticker Id: 93, Field: 72, Price: 30.250000
+Tick Price. Ticker Id: 93, Field: 75, Price: 30.000000
+Tick Price. Ticker Id: 93, Field: 73, Price: 30.250000
+Tick Price. Ticker Id: 54, Field: 68, Price: 37.000000
+'Last' updated for Ticker ID: 54 Symbol: NQ Strike: 15500.000000 Type: P
+Tick Price. Ticker Id: 64, Field: 72, Price: 102.500000
+Tick Price. Ticker Id: 64, Field: 73, Price: 100.000000
+Tick Price. Ticker Id: 64, Field: 75, Price: 109.750000
+Tick Price. Ticker Id: 57, Field: 68, Price: 5426.000000
+'Last' updated for Ticker ID: 57 Symbol: NQ Strike: 16500.000000 Type: C
+Tick Price. Ticker Id: 78, Field: 68, Price: 465.750000
+'Last' updated for Ticker ID: 78 Symbol: NQ Strike: 21000.000000 Type: P
+Tick Price. Ticker Id: 86, Field: 75, Price: 1508.250000
+Tick Price. Ticker Id: 60, Field: 72, Price: 71.250000
+Tick Price. Ticker Id: 60, Field: 73, Price: 65.750000
+Tick Price. Ticker Id: 60, Field: 75, Price: 72.750000
+Tick Price. Ticker Id: 60, Field: 68, Price: 67.250000
+'Last' updated for Ticker ID: 60 Symbol: NQ Strike: 17000.000000 Type: P
+Tick Price. Ticker Id: 78, Field: 72, Price: 520.500000
+Tick Price. Ticker Id: 78, Field: 73, Price: 465.000000
+Tick Price. Ticker Id: 78, Field: 75, Price: 509.500000
+Tick Price. Ticker Id: 83, Field: 68, Price: 490.000000
+'Last' updated for Ticker ID: 83 Symbol: NQ Strike: 22500.000000 Type: C
+Tick Price. Ticker Id: 62, Field: 68, Price: 89.000000
+'Last' updated for Ticker ID: 62 Symbol: NQ Strike: 17500.000000 Type: P
+Tick Price. Ticker Id: 84, Field: 72, Price: 1130.000000
+Tick Price. Ticker Id: 84, Field: 75, Price: 1169.250000
+Tick Price. Ticker Id: 84, Field: 73, Price: 1110.000000
+Tick Price. Ticker Id: 70, Field: 73, Price: 164.000000
+Tick Price. Ticker Id: 70, Field: 72, Price: 166.750000
+Tick Price. Ticker Id: 70, Field: 75, Price: 183.500000
+Tick Price. Ticker Id: 70, Field: 68, Price: 166.750000
+'Last' updated for Ticker ID: 70 Symbol: NQ Strike: 19100.000000 Type: P
+Tick Price. Ticker Id: 84, Field: 68, Price: 1110.000000
+'Last' updated for Ticker ID: 84 Symbol: NQ Strike: 22500.000000 Type: P
+Tick Price. Ticker Id: 58, Field: 68, Price: 54.000000
+'Last' updated for Ticker ID: 58 Symbol: NQ Strike: 16500.000000 Type: P
+Tick Price. Ticker Id: 79, Field: 72, Price: 1012.000000
+Tick Price. Ticker Id: 79, Field: 73, Price: 1008.000000
+Tick Price. Ticker Id: 79, Field: 75, Price: 912.500000
+Tick Price. Ticker Id: 85, Field: 68, Price: 308.500000
+'Last' updated for Ticker ID: 85 Symbol: NQ Strike: 23000.000000 Type: C
+Tick Price. Ticker Id: 83, Field: 72, Price: 490.000000
+Tick Price. Ticker Id: 83, Field: 73, Price: 475.250000
+Tick Price. Ticker Id: 83, Field: 75, Price: 417.000000
+Tick Price. Ticker Id: 85, Field: 72, Price: 308.500000
+Tick Price. Ticker Id: 85, Field: 73, Price: 278.000000
+Tick Price. Ticker Id: 85, Field: 75, Price: 260.250000
+Tick Price. Ticker Id: 79, Field: 68, Price: 1012.000000
+'Last' updated for Ticker ID: 79 Symbol: NQ Strike: 21500.000000 Type: C
+Tick Price. Ticker Id: 58, Field: 72, Price: 56.000000
+Tick Price. Ticker Id: 58, Field: 73, Price: 53.500000
+Tick Price. Ticker Id: 58, Field: 75, Price: 59.750000
+Tick Price. Ticker Id: 62, Field: 72, Price: 89.000000
+Tick Price. Ticker Id: 62, Field: 73, Price: 89.000000
+Tick Price. Ticker Id: 62, Field: 75, Price: 89.000000
+Error. Id: 112, Code: 10090, Msg: Part of requested market data is not subscribed. Subscription-independent ticks are still active.Delayed market data is available.NQ MAR'25/TOP/ALL
+MarketDataType. ReqId: 99, Type: 3
+Error. Id: 99, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 100, Type: 3
+Error. Id: 100, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 101, Type: 3
+Error. Id: 101, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 102, Type: 3
+Error. Id: 102, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 103, Type: 3
+Error. Id: 103, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 104, Type: 3
+Error. Id: 104, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 105, Type: 3
+Error. Id: 105, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+Tick Price. Ticker Id: 101, Field: 68, Price: 4.850000
+'Last' updated for Ticker ID: 101 Symbol: NQ Strike: 27000.000000 Type: C
+Tick Price. Ticker Id: 99, Field: 68, Price: 7.500000
+'Last' updated for Ticker ID: 99 Symbol: NQ Strike: 26500.000000 Type: C
+Tick Price. Ticker Id: 101, Field: 72, Price: 4.850000
+Tick Price. Ticker Id: 101, Field: 73, Price: 4.600000
+Tick Price. Ticker Id: 101, Field: 75, Price: 4.000000
+Tick Price. Ticker Id: 99, Field: 73, Price: 7.500000
+Tick Price. Ticker Id: 99, Field: 72, Price: 7.500000
+MarketDataType. ReqId: 106, Type: 3
+Tick Price. Ticker Id: 99, Field: 75, Price: 6.250000
+Error. Id: 106, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 107, Type: 3
+Error. Id: 107, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 108, Type: 3
+Error. Id: 108, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 109, Type: 3
+Error. Id: 109, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 110, Type: 3
+Error. Id: 110, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 111, Type: 3
+Error. Id: 112, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+MarketDataType. ReqId: 112, Type: 3
+Error. Id: 111, Code: 10167, Msg: Requested market data is not subscribed. Displaying delayed market data.
+Tick Price. Ticker Id: 65, Field: 66, Price: -1.000000
+Tick Price. Ticker Id: 65, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 49, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 49 Symbol: NQ Strike: 14500.000000 Type: C
+Tick Price. Ticker Id: 49, Field: 67, Price: -1.000000
+'Bid' updated for Ticker ID: 65 Symbol: NQ Strike: 18500.000000 Type: C
+Tick Price. Ticker Id: 98, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 98 Symbol: NQ Strike: 26000.000000 Type: P
+'Ask' updated for Ticker ID: 49 Symbol: NQ Strike: 14500.000000 Type: C
+'Ask' updated for Ticker ID: 65 Symbol: NQ Strike: 18500.000000 Type: C
+Tick Price. Ticker Id: 78, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 78 Symbol: NQ Strike: 21000.000000 Type: P
+Tick Price. Ticker Id: 78, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 78 Symbol: NQ Strike: 21000.000000 Type: P
+Tick Price. Ticker Id: 95, Field: 66, Price: -1.000000
+Tick Price. Ticker Id: 53, Field: 75, Price: 6250.500000
+Tick Price. Ticker Id: 95, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 95 Symbol: NQ Strike: 25500.000000 Type: C
+Tick Price. Ticker Id: 55, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 55 Symbol: NQ Strike: 16000.000000 Type: C
+'Bid' updated for Ticker ID: 95 Symbol: NQ Strike: 25500.000000 Type: C
+Tick Price. Ticker Id: 61, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 61 Symbol: NQ Strike: 17500.000000 Type: C
+Tick Price. Ticker Id: 61, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 61 Symbol: NQ Strike: 17500.000000 Type: C
+Tick Price. Ticker Id: 86, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 86 Symbol: NQ Strike: 23000.000000 Type: P
+Tick Price. Ticker Id: 86, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 86 Symbol: NQ Strike: 23000.000000 Type: P
+Tick Price. Ticker Id: 86, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 91, Field: 66, Price: -1.000000
+'Ask' updated for Ticker ID: 86 Symbol: NQ Strike: 23000.000000 Type: P
+Tick Price. Ticker Id: 91, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 96, Field: 67, Price: -1.000000
+'Bid' updated for Ticker ID: 91 Symbol: NQ Strike: 24500.000000 Type: C
+'Ask' updated for Ticker ID: 96 Symbol: NQ Strike: 25500.000000 Type: P
+Tick Price. Ticker Id: 96, Field: 66, Price: -1.000000
+Tick Price. Ticker Id: 54, Field: 66, Price: -1.000000
+Tick Price. Ticker Id: 92, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 54 Symbol: NQ Strike: 15500.000000 Type: P
+'Bid' updated for Ticker ID: 92 Symbol: NQ Strike: 24500.000000 Type: P
+'Bid' updated for Ticker ID: 96 Symbol: NQ Strike: 25500.000000 Type: P
+Tick Price. Ticker Id: 95, Field: 68, Price: -1.000000
+Tick Price. Ticker Id: 54, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 91 Symbol: NQ Strike: 24500.000000 Type: C
+Tick Price. Ticker Id: 92, Field: 67, Price: -1.000000
+'Last' updated for Ticker ID: 95 Symbol: NQ Strike: 25500.000000 Type: C
+'Ask' updated for Ticker ID: 54 Symbol: NQ Strike: 15500.000000 Type: P
+Tick Price. Ticker Id: 59, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 59 Symbol: NQ Strike: 17000.000000 Type: C
+'Ask' updated for Ticker ID: 92 Symbol: NQ Strike: 24500.000000 Type: P
+Tick Price. Ticker Id: 98, Field: 75, Price: 4259.500000
+Tick Price. Ticker Id: 63, Field: 75, Price: 3822.000000
+Tick Price. Ticker Id: 62, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 62 Symbol: NQ Strike: 17500.000000 Type: P
+Tick Price. Ticker Id: 74, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 74 Symbol: NQ Strike: 20000.000000 Type: P
+Tick Price. Ticker Id: 50, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 50 Symbol: NQ Strike: 14500.000000 Type: P
+Tick Price. Ticker Id: 74, Field: 66, Price: -1.000000
+Tick Price. Ticker Id: 62, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 79, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 79 Symbol: NQ Strike: 21500.000000 Type: C
+Tick Price. Ticker Id: 50, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 62 Symbol: NQ Strike: 17500.000000 Type: P
+'Ask' updated for Ticker ID: 50 Symbol: NQ Strike: 14500.000000 Type: P
+Tick Price. Ticker Id: 79, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 53, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 53 Symbol: NQ Strike: 15500.000000 Type: C
+Tick Price. Ticker Id: 56, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 56 Symbol: NQ Strike: 16000.000000 Type: P
+'Bid' updated for Ticker ID: 74 Symbol: NQ Strike: 20000.000000 Type: P
+'Ask' updated for Ticker ID: 79 Symbol: NQ Strike: 21500.000000 Type: C
+Tick Price. Ticker Id: 56, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 56 Symbol: NQ Strike: 16000.000000 Type: P
+Tick Price. Ticker Id: 67, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 67 Symbol: NQ Strike: 19000.000000 Type: C
+Tick Price. Ticker Id: 58, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 58 Symbol: NQ Strike: 16500.000000 Type: P
+Tick Price. Ticker Id: 58, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 58 Symbol: NQ Strike: 16500.000000 Type: P
+Tick Price. Ticker Id: 49, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 49 Symbol: NQ Strike: 14500.000000 Type: C
+Tick Price. Ticker Id: 66, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 66 Symbol: NQ Strike: 18500.000000 Type: P
+Tick Price. Ticker Id: 66, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 97, Field: 66, Price: -1.000000
+Tick Price. Ticker Id: 97, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 66 Symbol: NQ Strike: 18500.000000 Type: P
+'Bid' updated for Ticker ID: 97 Symbol: NQ Strike: 26000.000000 Type: C
+Tick Price. Ticker Id: 85, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 85 Symbol: NQ Strike: 23000.000000 Type: C
+'Ask' updated for Ticker ID: 97 Symbol: NQ Strike: 26000.000000 Type: C
+Tick Price. Ticker Id: 85, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 65, Field: 75, Price: 3352.000000
+'Ask' updated for Ticker ID: 85 Symbol: NQ Strike: 23000.000000 Type: C
+Tick Price. Ticker Id: 65, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 65 Symbol: NQ Strike: 18500.000000 Type: C
+Tick Price. Ticker Id: 53, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 53 Symbol: NQ Strike: 15500.000000 Type: C
+Tick Price. Ticker Id: 53, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 71, Field: 66, Price: -1.000000
+Tick Price. Ticker Id: 81, Field: 66, Price: -1.000000
+'Ask' updated for Ticker ID: 53 Symbol: NQ Strike: 15500.000000 Type: C
+'Bid' updated for Ticker ID: 81 Symbol: NQ Strike: 22000.000000 Type: C
+Tick Price. Ticker Id: 71, Field: 67, Price: -1.000000
+'Bid' updated for Ticker ID: 71 Symbol: NQ Strike: 19500.000000 Type: C
+Tick Price. Ticker Id: 90, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 90 Symbol: NQ Strike: 24000.000000 Type: P
+Tick Price. Ticker Id: 90, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 81, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 81 Symbol: NQ Strike: 22000.000000 Type: C
+Tick Price. Ticker Id: 87, Field: 66, Price: -1.000000
+'Ask' updated for Ticker ID: 90 Symbol: NQ Strike: 24000.000000 Type: P
+Tick Price. Ticker Id: 87, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 68, Field: 67, Price: -1.000000
+'Bid' updated for Ticker ID: 87 Symbol: NQ Strike: 23500.000000 Type: C
+'Ask' updated for Ticker ID: 71 Symbol: NQ Strike: 19500.000000 Type: C
+'Ask' updated for Ticker ID: 68 Symbol: NQ Strike: 19000.000000 Type: P
+Tick Price. Ticker Id: 70, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 70 Symbol: NQ Strike: 19100.000000 Type: P
+Tick Price. Ticker Id: 70, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 68, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 68 Symbol: NQ Strike: 19000.000000 Type: P
+'Ask' updated for Ticker ID: 70 Symbol: NQ Strike: 19100.000000 Type: P
+'Ask' updated for Ticker ID: 87 Symbol: NQ Strike: 23500.000000 Type: C
+Tick Price. Ticker Id: 92, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 92 Symbol: NQ Strike: 24500.000000 Type: P
+Tick Price. Ticker Id: 98, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 98 Symbol: NQ Strike: 26000.000000 Type: P
+Tick Price. Ticker Id: 98, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 98 Symbol: NQ Strike: 26000.000000 Type: P
+Tick Price. Ticker Id: 69, Field: 75, Price: 2801.250000
+Tick Price. Ticker Id: 92, Field: 75, Price: 2792.500000
+Tick Price. Ticker Id: 69, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 69 Symbol: NQ Strike: 19100.000000 Type: C
+Tick Price. Ticker Id: 61, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 61 Symbol: NQ Strike: 17500.000000 Type: C
+Tick Price. Ticker Id: 84, Field: 66, Price: -1.000000
+Tick Price. Ticker Id: 84, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 63, Field: 66, Price: -1.000000
+Tick Price. Ticker Id: 63, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 82, Field: 66, Price: -1.000000
+Tick Price. Ticker Id: 82, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 69, Field: 66, Price: -1.000000
+Tick Price. Ticker Id: 88, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 88 Symbol: NQ Strike: 23500.000000 Type: P
+'Ask' updated for Ticker ID: 82 Symbol: NQ Strike: 22000.000000 Type: P
+Tick Price. Ticker Id: 69, Field: 67, Price: -1.000000
+'Bid' updated for Ticker ID: 84 Symbol: NQ Strike: 22500.000000 Type: P
+Tick Price. Ticker Id: 71, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 71 Symbol: NQ Strike: 19500.000000 Type: C
+Tick Price. Ticker Id: 88, Field: 66, Price: -1.000000
+Tick Price. Ticker Id: 94, Field: 75, Price: 3271.000000
+'Bid' updated for Ticker ID: 82 Symbol: NQ Strike: 22000.000000 Type: P
+'Bid' updated for Ticker ID: 63 Symbol: NQ Strike: 18000.000000 Type: C
+'Bid' updated for Ticker ID: 69 Symbol: NQ Strike: 19100.000000 Type: C
+'Bid' updated for Ticker ID: 88 Symbol: NQ Strike: 23500.000000 Type: P
+Tick Price. Ticker Id: 90, Field: 68, Price: -1.000000
+'Ask' updated for Ticker ID: 63 Symbol: NQ Strike: 18000.000000 Type: C
+'Last' updated for Ticker ID: 90 Symbol: NQ Strike: 24000.000000 Type: P
+Tick Price. Ticker Id: 73, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 73 Symbol: NQ Strike: 20000.000000 Type: C
+'Ask' updated for Ticker ID: 84 Symbol: NQ Strike: 22500.000000 Type: P
+Tick Price. Ticker Id: 73, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 69 Symbol: NQ Strike: 19100.000000 Type: C
+Tick Price. Ticker Id: 75, Field: 66, Price: -1.000000
+Tick Price. Ticker Id: 72, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 75 Symbol: NQ Strike: 20500.000000 Type: C
+Tick Price. Ticker Id: 72, Field: 67, Price: -1.000000
+'Bid' updated for Ticker ID: 72 Symbol: NQ Strike: 19500.000000 Type: P
+Tick Price. Ticker Id: 67, Field: 75, Price: 2891.750000
+Tick Price. Ticker Id: 75, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 76, Field: 66, Price: -1.000000
+'Ask' updated for Ticker ID: 75 Symbol: NQ Strike: 20500.000000 Type: C
+Tick Price. Ticker Id: 76, Field: 67, Price: -1.000000
+'Bid' updated for Ticker ID: 76 Symbol: NQ Strike: 20500.000000 Type: P
+'Ask' updated for Ticker ID: 73 Symbol: NQ Strike: 20000.000000 Type: C
+Tick Price. Ticker Id: 51, Field: 75, Price: 6745.250000
+Tick Price. Ticker Id: 80, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 80 Symbol: NQ Strike: 21500.000000 Type: P
+Tick Price. Ticker Id: 80, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 80 Symbol: NQ Strike: 21500.000000 Type: P
+Tick Price. Ticker Id: 61, Field: 75, Price: 4299.250000
+Tick Price. Ticker Id: 49, Field: 75, Price: 7242.000000
+Tick Price. Ticker Id: 89, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 89 Symbol: NQ Strike: 24000.000000 Type: C
+'Ask' updated for Ticker ID: 76 Symbol: NQ Strike: 20500.000000 Type: P
+'Ask' updated for Ticker ID: 72 Symbol: NQ Strike: 19500.000000 Type: P
+Tick Price. Ticker Id: 89, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 94, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 94 Symbol: NQ Strike: 25000.000000 Type: P
+Tick Price. Ticker Id: 71, Field: 75, Price: 2445.750000
+'Ask' updated for Ticker ID: 89 Symbol: NQ Strike: 24000.000000 Type: C
+Tick Price. Ticker Id: 59, Field: 75, Price: 4781.750000
+Tick Price. Ticker Id: 95, Field: 75, Price: 17.500000
+Tick Price. Ticker Id: 83, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 83 Symbol: NQ Strike: 22500.000000 Type: C
+Tick Price. Ticker Id: 83, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 59, Field: 66, Price: -1.000000
+'Ask' updated for Ticker ID: 83 Symbol: NQ Strike: 22500.000000 Type: C
+Tick Price. Ticker Id: 59, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 64, Field: 66, Price: -1.000000
+Tick Price. Ticker Id: 64, Field: 67, Price: -1.000000
+'Bid' updated for Ticker ID: 64 Symbol: NQ Strike: 18000.000000 Type: P
+'Bid' updated for Ticker ID: 59 Symbol: NQ Strike: 17000.000000 Type: C
+Tick Price. Ticker Id: 67, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 67 Symbol: NQ Strike: 19000.000000 Type: C
+Tick Price. Ticker Id: 67, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 64 Symbol: NQ Strike: 18000.000000 Type: P
+'Ask' updated for Ticker ID: 67 Symbol: NQ Strike: 19000.000000 Type: C
+Tick Price. Ticker Id: 63, Field: 68, Price: -1.000000
+'Ask' updated for Ticker ID: 59 Symbol: NQ Strike: 17000.000000 Type: C
+'Last' updated for Ticker ID: 63 Symbol: NQ Strike: 18000.000000 Type: C
+Tick Price. Ticker Id: 93, Field: 66, Price: -1.000000
+Tick Price. Ticker Id: 93, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 96, Field: 75, Price: 3761.250000
+'Bid' updated for Ticker ID: 93 Symbol: NQ Strike: 25000.000000 Type: C
+Tick Price. Ticker Id: 60, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 60 Symbol: NQ Strike: 17000.000000 Type: P
+Tick Price. Ticker Id: 60, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 52, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 52 Symbol: NQ Strike: 15000.000000 Type: P
+Tick Price. Ticker Id: 52, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 93 Symbol: NQ Strike: 25000.000000 Type: C
+Tick Price. Ticker Id: 90, Field: 75, Price: 2332.250000
+'Ask' updated for Ticker ID: 60 Symbol: NQ Strike: 17000.000000 Type: P
+'Ask' updated for Ticker ID: 52 Symbol: NQ Strike: 15000.000000 Type: P
+Tick Price. Ticker Id: 88, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 88 Symbol: NQ Strike: 23500.000000 Type: P
+Tick Price. Ticker Id: 57, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 55, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 57 Symbol: NQ Strike: 16500.000000 Type: C
+Tick Price. Ticker Id: 55, Field: 66, Price: -1.000000
+Tick Price. Ticker Id: 77, Field: 66, Price: -1.000000
+Tick Price. Ticker Id: 77, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 55 Symbol: NQ Strike: 16000.000000 Type: C
+'Bid' updated for Ticker ID: 77 Symbol: NQ Strike: 21000.000000 Type: C
+Tick Price. Ticker Id: 57, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 57 Symbol: NQ Strike: 16500.000000 Type: C
+'Bid' updated for Ticker ID: 55 Symbol: NQ Strike: 16000.000000 Type: C
+Tick Price. Ticker Id: 96, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 96 Symbol: NQ Strike: 25500.000000 Type: P
+'Ask' updated for Ticker ID: 77 Symbol: NQ Strike: 21000.000000 Type: C
+Tick Price. Ticker Id: 51, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 51 Symbol: NQ Strike: 15000.000000 Type: C
+Tick Price. Ticker Id: 51, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 51 Symbol: NQ Strike: 15000.000000 Type: C
+Tick Price. Ticker Id: 51, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 94, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 94 Symbol: NQ Strike: 25000.000000 Type: P
+'Ask' updated for Ticker ID: 51 Symbol: NQ Strike: 15000.000000 Type: C
+Tick Price. Ticker Id: 94, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 94 Symbol: NQ Strike: 25000.000000 Type: P
+Tick Price. Ticker Id: 88, Field: 75, Price: 1900.000000
+Tick Price. Ticker Id: 105, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 105 Symbol: NQ Strike: 28000.000000 Type: C
+Tick Price. Ticker Id: 105, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 105 Symbol: NQ Strike: 28000.000000 Type: C
+Tick Price. Ticker Id: 110, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 110 Symbol: NQ Strike: 29000.000000 Type: P
+Tick Price. Ticker Id: 102, Field: 75, Price: 5259.500000
+Tick Price. Ticker Id: 104, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 104 Symbol: NQ Strike: 27500.000000 Type: P
+Tick Price. Ticker Id: 104, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 102, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 102 Symbol: NQ Strike: 27000.000000 Type: P
+Tick Price. Ticker Id: 102, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 105, Field: 75, Price: 1.750000
+'Ask' updated for Ticker ID: 104 Symbol: NQ Strike: 27500.000000 Type: P
+'Ask' updated for Ticker ID: 102 Symbol: NQ Strike: 27000.000000 Type: P
+Tick Price. Ticker Id: 111, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 111 Symbol: NQ Strike: 29500.000000 Type: C
+Tick Price. Ticker Id: 103, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 103 Symbol: NQ Strike: 27500.000000 Type: C
+Tick Price. Ticker Id: 103, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 103 Symbol: NQ Strike: 27500.000000 Type: C
+Tick Price. Ticker Id: 107, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 107 Symbol: NQ Strike: 28500.000000 Type: C
+Tick Price. Ticker Id: 104, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 104 Symbol: NQ Strike: 27500.000000 Type: P
+Tick Price. Ticker Id: 103, Field: 75, Price: 2.550000
+Tick Price. Ticker Id: 112, Field: 75, Price: 7759.500000
+Tick Price. Ticker Id: 106, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 106 Symbol: NQ Strike: 28000.000000 Type: P
+Tick Price. Ticker Id: 109, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 109 Symbol: NQ Strike: 29000.000000 Type: C
+Tick Price. Ticker Id: 99, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 99 Symbol: NQ Strike: 26500.000000 Type: C
+Tick Price. Ticker Id: 99, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 99 Symbol: NQ Strike: 26500.000000 Type: C
+Tick Price. Ticker Id: 100, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 100 Symbol: NQ Strike: 26500.000000 Type: P
+Tick Price. Ticker Id: 100, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 100 Symbol: NQ Strike: 26500.000000 Type: P
+Tick Price. Ticker Id: 106, Field: 75, Price: 6259.500000
+Tick Price. Ticker Id: 107, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 107 Symbol: NQ Strike: 28500.000000 Type: C
+Tick Price. Ticker Id: 107, Field: 66, Price: -1.000000
+Tick Price. Ticker Id: 110, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 110 Symbol: NQ Strike: 29000.000000 Type: P
+'Bid' updated for Ticker ID: 107 Symbol: NQ Strike: 28500.000000 Type: C
+Tick Price. Ticker Id: 110, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 111, Field: 66, Price: -1.000000
+'Ask' updated for Ticker ID: 110 Symbol: NQ Strike: 29000.000000 Type: P
+Tick Price. Ticker Id: 111, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 105, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 105 Symbol: NQ Strike: 28000.000000 Type: C
+Tick Price. Ticker Id: 104, Field: 75, Price: 5759.500000
+Tick Price. Ticker Id: 109, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 109 Symbol: NQ Strike: 29000.000000 Type: C
+'Bid' updated for Ticker ID: 111 Symbol: NQ Strike: 29500.000000 Type: C
+Tick Price. Ticker Id: 109, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 109 Symbol: NQ Strike: 29000.000000 Type: C
+'Ask' updated for Ticker ID: 111 Symbol: NQ Strike: 29500.000000 Type: C
+Tick Price. Ticker Id: 112, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 112 Symbol: NQ Strike: 29500.000000 Type: P
+Tick Price. Ticker Id: 103, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 103 Symbol: NQ Strike: 27500.000000 Type: C
+Tick Price. Ticker Id: 102, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 102 Symbol: NQ Strike: 27000.000000 Type: P
+Tick Price. Ticker Id: 108, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 108 Symbol: NQ Strike: 28500.000000 Type: P
+Tick Price. Ticker Id: 112, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 112 Symbol: NQ Strike: 29500.000000 Type: P
+Tick Price. Ticker Id: 112, Field: 67, Price: -1.000000
+Tick Price. Ticker Id: 111, Field: 75, Price: 0.600000
+Tick Price. Ticker Id: 107, Field: 75, Price: 1.200000
+Tick Price. Ticker Id: 108, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 108 Symbol: NQ Strike: 28500.000000 Type: P
+Tick Price. Ticker Id: 108, Field: 75, Price: 6759.500000
+'Ask' updated for Ticker ID: 112 Symbol: NQ Strike: 29500.000000 Type: P
+Tick Price. Ticker Id: 100, Field: 75, Price: 4759.500000
+Tick Price. Ticker Id: 106, Field: 66, Price: -1.000000
+Tick Price. Ticker Id: 106, Field: 67, Price: -1.000000
+'Bid' updated for Ticker ID: 106 Symbol: NQ Strike: 28000.000000 Type: P
+Tick Price. Ticker Id: 101, Field: 66, Price: -1.000000
+'Bid' updated for Ticker ID: 101 Symbol: NQ Strike: 27000.000000 Type: C
+Tick Price. Ticker Id: 101, Field: 67, Price: -1.000000
+'Ask' updated for Ticker ID: 106 Symbol: NQ Strike: 28000.000000 Type: P
+'Ask' updated for Ticker ID: 101 Symbol: NQ Strike: 27000.000000 Type: C
+Tick Price. Ticker Id: 108, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 108 Symbol: NQ Strike: 28500.000000 Type: P
+Tick Price. Ticker Id: 109, Field: 75, Price: 0.850000
+Tick Price. Ticker Id: 100, Field: 68, Price: -1.000000
+'Last' updated for Ticker ID: 100 Symbol: NQ Strike: 26500.000000 Type: P
+Tick Price. Ticker Id: 110, Field: 75, Price: 7259.500000
+Cancelled all market data requests
+Disconnected
